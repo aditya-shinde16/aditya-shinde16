@@ -6,7 +6,7 @@ Currently, I am actively seeking opportunities in positions like Data Analyst, B
 
 ### 📚 Projects
 
-Welcome to my portfolio, where I showcase my [projects]().
+Welcome to my portfolio, where I showcase my [projects](https://github.com/aditya-shinde16/Portfolio_Guide).
 
 ### 🛠️ Tools
 
