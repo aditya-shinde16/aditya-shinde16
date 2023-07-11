@@ -2,7 +2,7 @@
 
 Hi there 👋 I'm Aditya Shinde, a data science enthusiast 📊. I'm passionate about helping businesses make sense of their data. 
 
-Currently, I'm open to opportunities in roles such as Data Analyst, Business Intelligence Analyst, Analytics Engineer.
+Currently, I am actively seeking opportunities in positions like Data Analyst, Business Intelligence Analyst, and Analytics Engineer.
 
 ### 📚 Projects
 
