@@ -11,5 +11,5 @@ Welcome to my portfolio, where I showcase my [projects](https://github.com/adity
 ### 🛠️ Tools
 
 - Database: Google BigQuery, MySQL
-- Python: NumPy, Pandas, EDA
+- Python: NumPy, Pandas, Scipy, EDA
 - Business Intelligence: Tableau, PowerBI, MS Excel
